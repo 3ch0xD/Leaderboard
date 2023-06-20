@@ -1,20 +1,20 @@
 @font-face{
 	font-family: font-1;
-	src: url(fonts/CartoonFun-rg0zO.ttf)
+	src: url(CartoonFun-rg0zO.ttf)
 }
 @font-face{
 	font-family: font-2;
-	src: url(fonts/MachinePro-ZVEqx.otf)
+	src: url(MachinePro-ZVEqx.otf)
 }
 
 @font-face{
 	font-family: font-3;
-	src: url(fonts/SinglyLinkedRegular-vmoRL.otf)
+	src: url(SinglyLinkedRegular-vmoRL.otf)
 }
 
 @font-face{
 	font-family: font-4;
-	src: url(fonts/HagiaProExtraBold-Eax78.ttf)
+	src: url(HagiaProExtraBold-Eax78.ttf)
 }
 
 /* SCROLL BAR */
